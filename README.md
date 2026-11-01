@@ -1,3 +1,11 @@
+## About this fork
+
+This repository is Vinay-711’s fork of **[composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)**. The upstream authors and contributors created the project documented below. This fork’s existence does not imply original authorship, upstream maintainer status or a deployed service.
+
+For current releases, installation requirements and security guidance, consult the upstream repository. Before changing this fork, inspect `git remote -v`, compare its default branch with upstream, and read the applicable contribution and license files. Keep upstream attribution intact; document local changes separately and propose focused upstream contributions when appropriate. No independent build or security validation of this fork is claimed here.
+
+---
+
 <h1 align="center">Awesome Codex Skills</h1>
 
 <p align="center">
